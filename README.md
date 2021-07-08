@@ -32,7 +32,8 @@ The people listed in the following table provided key input into this design:
 |Date|Revision|Author|Comments|
 |---|---|---|---|
 |08.08.2021|0.0.1|CM|Initial check in of project "Compostable Infrastructure"
+|08.08.2021|0.0.2|CM|Add link to resources document, placeholders for Conceptual, Logical and Physical.
 
 ## Links
 
-[Resources (internal)](resources.md)
+[Resources (internal)](Resources.md)
