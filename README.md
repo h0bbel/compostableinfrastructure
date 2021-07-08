@@ -28,7 +28,7 @@ The people listed in the following table provided key input into this design:
 
 |Name|Role|
 |---|---|
-|Christian Mohn||Owner|
+|Christian Mohn|Owner|
 
 #### Version History
 
