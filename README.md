@@ -31,4 +31,4 @@ The people listed in the following table provided key input into this design:
 
 |Date|Revision|Author|Comments|
 |---|---|---|---|
-|08.08.2021|0.0.1|CM|Initial Checkin of project "Compostable Infrastructure"
+|08.08.2021|0.0.1|CM|Initial check in of project "Compostable Infrastructure"
