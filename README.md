@@ -37,15 +37,4 @@ The people listed in the following table provided key input into this design:
 |08.08.2021|0.0.1|CM|Initial check in of project "Compostable Infrastructure"
 |08.08.2021|0.0.2|CM|Add link to resources document, placeholders for Conceptual, Logical and Physical.
 |08.08.2021|0.0.3|CM|Added some details to Physical.md (Hardware + VLANs)
-
-
-## Index
-
-* [Conceptual](Conceptual.md)
-* [Logical](Logical.md)
-* [Physical](Physical.md)
-* [Resources](Resources.md)
-  * [Assets](assets/Assets.md)
-    * [Code](assets/code/Code.md)
-    * [Codenames](assets/codenames/Codenames.md)
-    * [Diagrams](assets/diagrams/Diagrams.md)
+|08.08.2021|0.0.4|CM|Fleshed out directory structure, added markdown_index_generator.rb and index.md
