@@ -38,3 +38,4 @@ The people listed in the following table provided key input into this design:
 |08.08.2021|0.0.2|CM|Add link to resources document, placeholders for Conceptual, Logical and Physical.
 |08.08.2021|0.0.3|CM|Added some details to Physical.md (Hardware + VLANs)
 |08.08.2021|0.0.4|CM|Fleshed out directory structure, added markdown_index_generator.rb and index.md
+|08.08.2021|0.0.4|CM|Removed markdown_index_generator.rb, no need for it to be a part of the repo.
