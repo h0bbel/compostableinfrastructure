@@ -1,7 +1,7 @@
 # HomeLab Reimagined
 
 ## Codename: Compostable Infrastructure
-Named Compostable Infrastructure as my original tweet on the topic [had a typo](https://twitter.com/h0bbel/status/1413047607090352129) in it, and [Filip Verloy ran with it](https://twitter.com/filipv/status/1413048628684414978).
+Named *Compostable Infrastructure* as my original tweet on the topic [had a typo](https://twitter.com/h0bbel/status/1413047607090352129) in it, and [Filip Verloy ran with it](https://twitter.com/filipv/status/1413048628684414978).
 
 ## Executive Summary
 
