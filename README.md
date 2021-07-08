@@ -46,6 +46,6 @@ The people listed in the following table provided key input into this design:
 * [Physical](Physical.md)
 * [Resources](Resources.md)
   * [Assets](assets/Assets.md)
-  * [Codenames](assets/Codenames.md)
     * [Code](assets/code/Code.md)
+    * [Codenames](assets/codenames/Codenames.md)
     * [Diagrams](assets/diagrams/Diagrams.md)
