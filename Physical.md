@@ -2,13 +2,12 @@
 
 ## Hosts
 
-* 4 x [INTEL NUC8V5PN](https://www.intel.com/content/www/us/en/support/articles/000055854/intel-nuc.html)
+* 4 x [INTEL NUC8V5PN](https://www.intel.com/content/www/us/en/support/articles/000055854/intel-nuc.html) ([Technical Product Specification](https://www.intel.com/content/dam/support/us/en/documents/intel-nuc/NUC8v5PN-NUC8v7PN-TechProdSpec.pdf))
     * Samsung 970 EVO Plus NVME
     * Samsung 870 QVO 2TB
     * HyperX Impact 64GB SO DIMM
     * 1 x 1 GbE NIC
 
-[Technical Product Specification](https://www.intel.com/content/dam/support/us/en/documents/intel-nuc/NUC8v5PN-NUC8v7PN-TechProdSpec.pdf)
 
 ### Resources Offered
 
