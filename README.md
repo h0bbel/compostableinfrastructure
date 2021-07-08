@@ -1,13 +1,11 @@
 # HomeLab Reimagined
 
 ## Codename: Compostable Infrastructure
-Named Compostable Infrastructure as my original tweet on the topic had a typo in it. 
-Ref: https://twitter.com/filipv/status/1413048628684414978
-
+Named Compostable Infrastructure as my original tweet on the topic [had a typo](https://twitter.com/h0bbel/status/1413047607090352129) in it, and [Filip Verloy ran with it](https://twitter.com/filipv/status/1413048628684414978).
 
 ## Executive Summary
 
-The purpose of this document is to describe in necessary detail the current project description to represent a suitable model generating Conceptual, Logical and Physical designs for HomeLab. 
+The purpose of this document is to describe in necessary detail the current project description to represent a suitable model generating Conceptual, Logical and Physical designs for HomeLab.
 
 The [Conceptual Design](Conceptual.md) presents the proposed structure of the datacenter transformation project, such as the requirements, assumptions and risks involved.
 
