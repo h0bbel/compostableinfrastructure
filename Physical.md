@@ -9,7 +9,7 @@
     * 1 x 1 GbE NIC
 
 
-### Resources Offered
+### Physical Resources Offered
 
 * CPU: 4 x Intel® Core™ i5-8365U Processor, total available Ghz = 4 x (4 x 1.6 Ghz) = 25,6 Ghz (Not counting HT)
 * RAM: 4 x 64 GB = 256 GB
