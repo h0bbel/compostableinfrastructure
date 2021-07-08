@@ -39,6 +39,13 @@ The people listed in the following table provided key input into this design:
 |08.08.2021|0.0.3|CM|Added some details to Physical.md (Hardware + VLANs)
 
 
-## Links
+## Index
 
-[Resources (internal)](Resources.md)
+* [Conceptual](Conceptual.md)
+* [Logical](Logical.md)
+* [Physical](Physical.md)
+* [Resources](Resources.md)
+  * [Assets](assets/Assets.md)
+  * [Codenames](assets/Codenames.md)
+    * [Code](assets/code/Code.md)
+    * [Diagrams](assets/diagrams/Diagrams.md)
