@@ -6,6 +6,15 @@
     * Samsung 970 EVO Plus NVME
     * Samsung 870 QVO 2TB
     * HyperX Impact 64GB SO DIMM
+    * 1 x 1 GbE NIC
+
+[Technical Product Specification](https://www.intel.com/content/dam/support/us/en/documents/intel-nuc/NUC8v5PN-NUC8v7PN-TechProdSpec.pdf)
+
+### Resources Offered
+
+* CPU: 4 x Intel® Core™ i5-8365U Processor, total available Ghz = 4 x (4 x 1.6 Ghz) = 25,6 Ghz (Not counting HT)
+* RAM: 4 x 64 GB = 256 GB
+* Raw storage for vSAN = 4 x 2 TB = 8 TB (not counting cache)
 
 ## Network
 
