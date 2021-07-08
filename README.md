@@ -13,9 +13,12 @@ The [Logical Design](Logical.md) is based on the conceptual design, and provides
 
 This in turn results in a [Physical Design](Physical.md) that can be used to build the entire stack of services.
 
+The purpose of the lab is to provide infrastructure services as well as a training ground for various technologies.
+
 ## "Business" Background
 
 *By developing the documentation in this manner, the idea is for it to work as an exercise in writing enterprise design documents.*
+
 
 
 **Participants**
