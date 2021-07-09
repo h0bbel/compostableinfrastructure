@@ -34,3 +34,16 @@
 | b³-julie      | 200     |192.168.200.0/24 | N        | Exists
 | VM Network    | tbd     | tbd             | Y        |
 | Tanzu         | tbd     | tbd             | N        |
+
+### Management VLAN 11 
+
+|Host | IP |  Notes   |
+|:--- |:--:|:---------|
+esx01 | 192.168.11.11 | vPRO? |
+esx02 | 192.168.11.12 | vPRO? |
+esx03 | 192.168.11.13 | vPRO? |
+esx04 | 192.168.11.14 | vPRO? |
+esx01 | 192.168.11.31 | ESXi Management |
+esx02 | 192.168.11.32 | ESXi Management |
+esx03 | 192.168.11.33 | ESXi Management |
+esx04 | 192.168.11.34 | ESXi Management |
