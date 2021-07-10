@@ -6,12 +6,14 @@
 * [NSX-T 3.1 Home lab - Setup and Fabric configuration](https://rudimartinsen.com/2021/06/29/nsx-t-31-homelab/)
 * [NSX-T 3.1 Home lab - Testing Setup](https://rudimartinsen.com/2021/06/30/nsx-t-31-homelab-testing-setup/)
 
-
 ## Services
 
 * Home Assistant
-* Pi-Hole
+* Pi-Hole (DNS)
 * Plex
+* DHCP -> Ubiquity?
+* FreeNAS -> Media Storage
+* Synology -> Photo Storage
 
 ## Ideas
 * Home Assistant for home automation
